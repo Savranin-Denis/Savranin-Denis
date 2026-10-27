@@ -46,19 +46,19 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 
 ### 💻 Featured Projects
 
-* 🍰 **[Sweet Workshop](https://github.com/Savranin-Denis/sweet-workshop)** `Team Lead / Front-End Developer`
+* 🍰 **[Sweet Workshop](https://github.com/Savranin-Denis/project-Code4Fun)** | **[Live Demo 🌍](https://savranin-denis.github.io/project-Code4Fun/)** `Team Lead / Front-End Developer`
   * Responsive web application for a craft confectionery workshop built with **HTML5 (BEM), SASS, JS (ES6+), and Vite**.
   * **Key Contributions:** Led the development team, managed code reviews, and configured deployment. Improved Core Web Vitals (LCP, FCP) via WebP `<picture>` implementation, dynamic modal integration, and preloading assets.
 
-* 🌿 **[Green Harvest](https://github.com/Savranin-Denis/green-harvest)** `Team Lead / Developer`
+* 🌿 **[Green Harvest](https://github.com/Savranin-Denis/project-group-12-fix)** | **[Live Demo 🌍](https://savranin-denis.github.io/project-group-12-fix/index.html)** `Team Lead / Developer`
   * Adaptive web application engineered from Figma specifications following mobile-first design.
   * **Key Contributions:** Directed task allocation and Git branching workflows. Conducted code reviews and managed Vite build configurations to ensure codebase stability.
 
-* 💍 **[Handmade Jewelry](https://github.com/Savranin-Denis/handmade-jewelry)** `Front-End Developer`
+* 💍 **[Handmade Jewelry](https://github.com/Savranin-Denis/jewelry-project-02)** | **[Live Demo 🌍](https://savranin-denis.github.io/jewelry-project-02/)** `Front-End Developer`
   * E-commerce showcase featuring interactive ordering workflows.
   * **Key Contributions:** Developed the interactive Order section, validated the Client Order Form for clean data input, and integrated the Contact Information block following UI/UX best practices.
 
-* 🏢 **[Desla Climate Commercial Web](https://github.com/Savranin-Denis)** `Web Specialist`
+* 🏢 **[Desla Climate Commercial Web](https://desla-climate.com.ua/)** `Web Specialist`
   * Commercial web platform configuration with custom HTML/CSS modifications and UI assets. Structured content architecture and media assets optimized for B2B/B2C conversions.
 
 ---
