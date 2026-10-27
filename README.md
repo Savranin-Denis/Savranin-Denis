@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Denys%20Savranin&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Denis%20Savranin&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
