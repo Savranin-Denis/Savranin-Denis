@@ -83,10 +83,10 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-link">
+  <a href="https://www.linkedin.com/in/denys-savranin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/Denis_desla">
+  <a href="https://t.me/Denis_desla" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:savranindenisv@gmail.com">
