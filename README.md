@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Denis%20Savranin&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Denys%20Savranin&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Junior+Fullstack+Developer;React+%26+Next.js+Specialist;Node.js+%26+TypeScript+Engineer;Former+Engineering+Team+Lead" alt="Typing SVG" />
   </a>
 </p>
@@ -46,19 +46,19 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 
 ### 💻 Featured Projects
 
-* 🍰 **[Sweet Workshop](https://github.com/Savranin-Denis/project-Code4Fun)** | **[Live Demo 🌍](https://savranin-denis.github.io/project-Code4Fun/)** `Team Lead / Front-End Developer`
+* 🍰 <a href="https://github.com/Savranin-Denis/project-Code4Fun" target="_blank" rel="noopener noreferrer"><b>Sweet Workshop (Code)</b></a> | <a href="https://savranin-denis.github.io/project-Code4Fun/" target="_blank" rel="noopener noreferrer"><b>Live Demo 🌍</b></a> `Team Lead / Front-End Developer`
   * Responsive web application for a craft confectionery workshop built with **HTML5 (BEM), SASS, JS (ES6+), and Vite**.
   * **Key Contributions:** Led the development team, managed code reviews, and configured deployment. Improved Core Web Vitals (LCP, FCP) via WebP `<picture>` implementation, dynamic modal integration, and preloading assets.
 
-* 🌿 **[Green Harvest](https://github.com/Savranin-Denis/project-group-12-fix)** | **[Live Demo 🌍](https://savranin-denis.github.io/project-group-12-fix/index.html)** `Team Lead / Developer`
+* 🌿 <a href="https://github.com/Savranin-Denis/project-group-12-fix" target="_blank" rel="noopener noreferrer"><b>Green Harvest (Code)</b></a> | <a href="https://savranin-denis.github.io/project-group-12-fix/index.html" target="_blank" rel="noopener noreferrer"><b>Live Demo 🌍</b></a> `Team Lead / Developer`
   * Adaptive web application engineered from Figma specifications following mobile-first design.
   * **Key Contributions:** Directed task allocation and Git branching workflows. Conducted code reviews and managed Vite build configurations to ensure codebase stability.
 
-* 💍 **[Handmade Jewelry](https://github.com/Savranin-Denis/jewelry-project-02)** | **[Live Demo 🌍](https://savranin-denis.github.io/jewelry-project-02/)** `Front-End Developer`
+* 💍 <a href="https://github.com/Savranin-Denis/jewelry-project-02" target="_blank" rel="noopener noreferrer"><b>Handmade Jewelry (Code)</b></a> | <a href="https://savranin-denis.github.io/jewelry-project-02/" target="_blank" rel="noopener noreferrer"><b>Live Demo 🌍</b></a> `Front-End Developer`
   * E-commerce showcase featuring interactive ordering workflows.
   * **Key Contributions:** Developed the interactive Order section, validated the Client Order Form for clean data input, and integrated the Contact Information block following UI/UX best practices.
 
-* 🏢 **[Desla Climate Commercial Web](https://desla-climate.com.ua/)** `Web Specialist`
+* 🏢 <a href="https://desla-climate.com.ua/" target="_blank" rel="noopener noreferrer"><b>Desla Climate Commercial Web 🌍</b></a> `Web Specialist`
   * Commercial web platform configuration with custom HTML/CSS modifications and UI assets. Structured content architecture and media assets optimized for B2B/B2C conversions.
 
 ---
@@ -74,8 +74,8 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savranin-Denis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savranin-Denis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Savranin-Denis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savranin-Denis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -83,10 +83,10 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/denys-savranin/" target="_blank">
+  <a href="https://www.linkedin.com/in/denys-savranin/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/Denis_desla" target="_blank">
+  <a href="https://t.me/Denis_desla" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:savranindenisv@gmail.com">
