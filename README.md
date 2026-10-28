@@ -14,81 +14,127 @@
 
 ---
 
-### 👨‍💻 About Me
+<div id="about-me"></div>
 
-Driven **Fullstack Developer** with a background in engineering and project leadership. Skilled in building end-to-end web applications, designing responsive UI layouts, managing state with **Zustand**, and integrating **REST APIs**. 
+<h3 align="center">About Me</h3>
 
+<p align="center">
+<font size="3">
+Driven <strong>Fullstack Developer</strong> with a background in engineering and project leadership. Skilled in building end-to-end web applications, designing responsive UI layouts, managing state with <strong>Zustand</strong>, and integrating <strong>REST APIs</strong>. 
+<br><br>
 Experienced in leading front-end teams, directing Git branching workflows, conducting code reviews, and optimizing web performance (Core Web Vitals). I bring a structured, engineering-first approach to troubleshooting and building scalable, maintainable web solutions.
+</font>
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+<div id="tech-stack"></div>
 
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<h3 align="center">Tech Stack & Tools</h3>
 
-**Backend & Environment:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,git,github,vite,vscode" alt="Tech Stack Icons" />
+</p>
 
 ---
 
-### 💻 Featured Projects
+<div id="featured-projects"></div>
+
+<h3 align="center">Featured Projects</h3>
 
 <br>
 
-**1. Sweet Workshop** &nbsp;&nbsp; `Team Lead / Front-End Developer`  
-&nbsp;&nbsp; 🛠 *HTML5 (BEM), SASS, JavaScript (ES6+), Vite*  
-&nbsp;&nbsp; 📌 *Responsive web application for a craft confectionery workshop.*  
-&nbsp;&nbsp; 💡 *Led the development team, managed code reviews, and configured deployment. Improved Core Web Vitals (LCP, FCP) via WebP picture implementation and preloading assets.*  
-&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github" height="20">](https://github.com/Savranin-Denis/project-Code4Fun) &nbsp; [<img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel" height="20">](https://savranin-denis.github.io/project-Code4Fun/)
+#### 🍰 Sweet Workshop &nbsp;&nbsp; `Team Lead / Front-End Developer`
+<font size="3">
+
+**Tech Stack:** HTML5, JavaScript (ES6+), Vite  
+**Overview:** Responsive web application for a craft confectionery workshop.  
+**Key Contributions:** Led the front-end team, managed code reviews, and configured deployment. Improved Core Web Vitals (LCP, FCP) via WebP picture implementation, preloading assets, and dynamic modals.  
+
+<p align="left">
+  <a href="https://github.com/Savranin-Denis/project-Code4Fun" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://savranin-denis.github.io/project-Code4Fun/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+</font>
 
 <br>
 
-**2. Green Harvest** &nbsp;&nbsp; `Team Lead / Developer`  
-&nbsp;&nbsp; 🛠 *HTML, CSS, JavaScript, Vite*  
-&nbsp;&nbsp; 📌 *Adaptive web application engineered from Figma specifications following mobile-first design.*  
-&nbsp;&nbsp; 💡 *Directed task allocation and Git branching workflows. Conducted code reviews and managed Vite build configurations to ensure codebase stability.*  
-&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github" height="20">](https://github.com/Savranin-Denis/project-group-12-fix) &nbsp; [<img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel" height="20">](https://savranin-denis.github.io/project-group-12-fix/index.html)
+#### 🌿 Green Harvest &nbsp;&nbsp; `Team Lead / Developer`
+<font size="3">
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Vite  
+**Overview:** Adaptive web application engineered from Figma specifications following mobile-first design.  
+**Key Contributions:** Directed task allocation and Git branching workflows. Conducted code reviews and managed Vite build configurations to ensure codebase stability.  
+
+<p align="left">
+  <a href="https://github.com/Savranin-Denis/project-group-12-fix" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://savranin-denis.github.io/project-group-12-fix/index.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+</font>
 
 <br>
 
-**3. Handmade Jewelry** &nbsp;&nbsp; `Front-End Developer`  
-&nbsp;&nbsp; 🛠 *HTML, CSS, JavaScript*  
-&nbsp;&nbsp; 📌 *E-commerce showcase featuring interactive ordering workflows.*  
-&nbsp;&nbsp; 💡 *Developed the interactive Order section, validated the Client Order Form for clean data input, and integrated the Contact Information block following UI/UX best practices.*  
-&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github" height="20">](https://github.com/Savranin-Denis/jewelry-project-02) &nbsp; [<img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel" height="20">](https://savranin-denis.github.io/jewelry-project-02/)
+#### 💍 Handmade Jewelry &nbsp;&nbsp; `Front-End Developer`
+<font size="3">
+
+**Tech Stack:** HTML5, CSS3, JavaScript  
+**Overview:** E-commerce showcase featuring interactive ordering workflows.  
+**Key Contributions:** Developed the interactive Order section, validated the Client Order Form for clean data input, and integrated the Contact Information block following UI/UX best practices.  
+
+<p align="left">
+  <a href="https://github.com/Savranin-Denis/jewelry-project-02" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://savranin-denis.github.io/jewelry-project-02/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+</font>
 
 <br>
 
-**4. Desla Climate Commercial Web** &nbsp;&nbsp; `Web Specialist`  
-&nbsp;&nbsp; 🛠 *WordPress, HTML5, CSS3*  
-&nbsp;&nbsp; 📌 *Commercial web platform configuration with custom modifications.*  
-&nbsp;&nbsp; 💡 *Structured content architecture and media assets optimized for B2B/B2C conversions.*  
-&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/Live-Website-success?style=flat-square&logo=wordpress" height="20">](https://desla-climate.com.ua/)
+#### 🏢 Desla Climate Commercial Web &nbsp;&nbsp; `Web Specialist`
+<font size="3">
+
+**Tech Stack:** WordPress, Custom HTML5, CSS3  
+**Overview:** Commercial web platform configuration with custom modifications and UI assets.  
+**Key Contributions:** Structured content architecture and media assets optimized for B2B/B2C sales conversions.  
+
+<p align="left">
+  <a href="https://desla-climate.com.ua/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LIVE_WEBSITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website" />
+  </a>
+</p>
+</font>
 
 ---
 
-### 🗣️ Languages
+<div id="languages"></div>
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
-![English](https://img.shields.io/badge/English-Elementary-blue?style=flat-square)
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square" alt="Ukrainian" />
+  <img src="https://img.shields.io/badge/Russian-Native-red?style=flat-square" alt="Russian" />
+  <img src="https://img.shields.io/badge/English-Elementary-blue?style=flat-square" alt="English" />
+</p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+<div id="github-stats"></div>
+
+<h3 align="center">GitHub Activity & Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Savranin-Denis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
@@ -97,16 +143,20 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 
 ---
 
-### 📫 Connect with Me
+<div id="connect-with-me"></div>
+
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denys-savranin/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://t.me/Denis_desla" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:savranindenisv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
 </p>
