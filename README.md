@@ -44,6 +44,7 @@ Backend & Tools
 <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma,wordpress&theme=dark" alt="Node.js, Git, GitHub, VS Code, Figma and WordPress" />
 
 </div>
+<hr />
 
 🚀 Featured Projects
 01 / Sweet Workshop
@@ -137,6 +138,7 @@ WordPress HTML5 CSS3 Web Content
 <img src="https://img.shields.io/badge/VISIT_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" />
 </a>
 </p>
+<hr/>
 
 📊 GitHub Analytics
 
@@ -151,7 +153,7 @@ WordPress HTML5 CSS3 Web Content
 
 <img src="https://img.shields.io/badge/Ukrainian-Native-2563EB?style=flat-square" alt="Ukrainian — Native" />
 <img src="https://img.shields.io/badge/Russian-Native-475569?style=flat-square" alt="Russian — Native" />
-<img src="https://img.shields.io/badge/English-Elementary-64748B?style=flat-square" alt="English — Elementary" />
+<img src="https://img.shields.io/badge/English-Intermediate-64748B?style=flat-square" alt="English — Intermediate" />
 
 </div>
 
