@@ -46,20 +46,37 @@ Experienced in leading front-end teams, directing Git branching workflows, condu
 
 ### 💻 Featured Projects
 
-* 🍰 <a href="https://github.com/Savranin-Denis/project-Code4Fun" target="_blank" rel="noopener noreferrer"><b>Sweet Workshop (Code)</b></a> | <a href="https://savranin-denis.github.io/project-Code4Fun/" target="_blank" rel="noopener noreferrer"><b>Live Demo 🌍</b></a> `Team Lead / Front-End Developer`
-  * Responsive web application for a craft confectionery workshop built with **HTML5 (BEM), SASS, JS (ES6+), and Vite**.
-  * **Key Contributions:** Led the development team, managed code reviews, and configured deployment. Improved Core Web Vitals (LCP, FCP) via WebP `<picture>` implementation, dynamic modal integration, and preloading assets.
+<br>
 
-* 🌿 <a href="https://github.com/Savranin-Denis/project-group-12-fix" target="_blank" rel="noopener noreferrer"><b>Green Harvest (Code)</b></a> | <a href="https://savranin-denis.github.io/project-group-12-fix/index.html" target="_blank" rel="noopener noreferrer"><b>Live Demo 🌍</b></a> `Team Lead / Developer`
-  * Adaptive web application engineered from Figma specifications following mobile-first design.
-  * **Key Contributions:** Directed task allocation and Git branching workflows. Conducted code reviews and managed Vite build configurations to ensure codebase stability.
+**1. Sweet Workshop** &nbsp;&nbsp; `Team Lead / Front-End Developer`  
+&nbsp;&nbsp; 🛠 *HTML5 (BEM), SASS, JavaScript (ES6+), Vite*  
+&nbsp;&nbsp; 📌 *Responsive web application for a craft confectionery workshop.*  
+&nbsp;&nbsp; 💡 *Led the development team, managed code reviews, and configured deployment. Improved Core Web Vitals (LCP, FCP) via WebP picture implementation and preloading assets.*  
+&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github" height="20">](https://github.com/Savranin-Denis/project-Code4Fun) &nbsp; [<img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel" height="20">](https://savranin-denis.github.io/project-Code4Fun/)
 
-* 💍 <a href="https://github.com/Savranin-Denis/jewelry-project-02" target="_blank" rel="noopener noreferrer"><b>Handmade Jewelry (Code)</b></a> | <a href="https://savranin-denis.github.io/jewelry-project-02/" target="_blank" rel="noopener noreferrer"><b>Live Demo 🌍</b></a> `Front-End Developer`
-  * E-commerce showcase featuring interactive ordering workflows.
-  * **Key Contributions:** Developed the interactive Order section, validated the Client Order Form for clean data input, and integrated the Contact Information block following UI/UX best practices.
+<br>
 
-* 🏢 <a href="https://desla-climate.com.ua/" target="_blank" rel="noopener noreferrer"><b>Desla Climate Commercial Web 🌍</b></a> `Web Specialist`
-  * Commercial web platform configuration with custom HTML/CSS modifications and UI assets. Structured content architecture and media assets optimized for B2B/B2C conversions.
+**2. Green Harvest** &nbsp;&nbsp; `Team Lead / Developer`  
+&nbsp;&nbsp; 🛠 *HTML, CSS, JavaScript, Vite*  
+&nbsp;&nbsp; 📌 *Adaptive web application engineered from Figma specifications following mobile-first design.*  
+&nbsp;&nbsp; 💡 *Directed task allocation and Git branching workflows. Conducted code reviews and managed Vite build configurations to ensure codebase stability.*  
+&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github" height="20">](https://github.com/Savranin-Denis/project-group-12-fix) &nbsp; [<img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel" height="20">](https://savranin-denis.github.io/project-group-12-fix/index.html)
+
+<br>
+
+**3. Handmade Jewelry** &nbsp;&nbsp; `Front-End Developer`  
+&nbsp;&nbsp; 🛠 *HTML, CSS, JavaScript*  
+&nbsp;&nbsp; 📌 *E-commerce showcase featuring interactive ordering workflows.*  
+&nbsp;&nbsp; 💡 *Developed the interactive Order section, validated the Client Order Form for clean data input, and integrated the Contact Information block following UI/UX best practices.*  
+&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github" height="20">](https://github.com/Savranin-Denis/jewelry-project-02) &nbsp; [<img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel" height="20">](https://savranin-denis.github.io/jewelry-project-02/)
+
+<br>
+
+**4. Desla Climate Commercial Web** &nbsp;&nbsp; `Web Specialist`  
+&nbsp;&nbsp; 🛠 *WordPress, HTML5, CSS3*  
+&nbsp;&nbsp; 📌 *Commercial web platform configuration with custom modifications.*  
+&nbsp;&nbsp; 💡 *Structured content architecture and media assets optimized for B2B/B2C conversions.*  
+&nbsp;&nbsp; 🔗 [<img src="https://img.shields.io/badge/Live-Website-success?style=flat-square&logo=wordpress" height="20">](https://desla-climate.com.ua/)
 
 ---
 
