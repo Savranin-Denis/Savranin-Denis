@@ -41,7 +41,7 @@ Frontend
 
 Backend & Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma,wordpress&theme=dark" alt="Node.js, Git, GitHub, VS Code, Figma and WordPress" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,figma,wordpress&theme=dark" alt="Node.js, MongoDB, Git, GitHub, VS Code, Figma and WordPress" />
 
 </div>
 <hr />
@@ -142,10 +142,24 @@ WordPress HTML5 CSS3 Web Content
 
 📊 GitHub Analytics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Savranin-Denis&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savranin-Denis&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" width="49%" alt="Most used programming languages" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Savranin-Denis&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9&rank_icon=github"
+        width="100%"
+        alt="GitHub statistics"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Savranin-Denis&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9"
+        width="100%"
+        alt="Most used programming languages"
+      />
+    </td>
+  </tr>
+</table>
 
 🌍 Languages
 
